@@ -44,8 +44,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 Foi utilizado a metodologia "BEM" neste projeto aplicado pela Instrutora Monica Hillman, onde ela adotou a abordagem de construção do projeto como "Mobile First", que se entende por qualquer projeto web que leve em consideração a usabilidade em dispositivos móveis primeiro.
 
-Ela revisou alguns conceitos como flexbox, listas e ancoras, criou um menu suspenso interativo, com botão hamburguer sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.
-<br>
+Ela revisou alguns conceitos como flexbox, listas e ancoras, criou um menu suspenso interativo, com botão hamburguer sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.<br>
+
 A Monica nos apresentou o <a target="_blank" href="https://swiperjs.com/">"SwiperJs"</a>, que é um framework de javascript criado e utilizado para a apresentação na forma de slides de uma forma moderna, estilizada e fácil de se implementar, disponível também em Angular, Vue, Solid, Svelte e React.
 <br>
 Também aplicamos o uso de "media-queries" para implementação dos layouts de responsividade conforme projeto desenvolvido no Figma para: 
