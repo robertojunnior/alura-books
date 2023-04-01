@@ -50,9 +50,9 @@ A Monica nos apresentou o <a target="_blank" href="https://swiperjs.com/">"Swipe
 
 Também aplicamos o uso de "media-queries" para implementação dos layouts de responsividade conforme projeto desenvolvido no Figma para: <br>
 
-Mobile (min-width; 428px); 
-Tablet (min-widtth: 1024px);
-Desktop (min-width: 1728px).<br>
+<li>Mobile (min-width; 428px); 
+<li>Tablet (min-widtth: 1024px);
+<li>Desktop (min-width: 1728px).<br>
 
 Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução HD, adaptei o código também para sua resolução com mais um media-querie screen (min-width: 1366px) com alguns ajustes adicionais, que se adapou perfeitamente ao projeto original.<br>
 
