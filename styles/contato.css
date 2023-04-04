@@ -39,7 +39,7 @@
     padding-left: 2em;   
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 820px) {
     .contato {
         display: flex;
         justify-content: center;

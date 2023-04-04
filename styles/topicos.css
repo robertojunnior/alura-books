@@ -29,7 +29,7 @@
     margin: 2em .5em;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 820px) {
     .topicos__titulo {
         font-size: 1.5em;
     }
