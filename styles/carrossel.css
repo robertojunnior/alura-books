@@ -112,7 +112,7 @@
     }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1260px) {
     .carrossel__container {
         display: flex;
         margin: 0 10vw 3em 10vw;
