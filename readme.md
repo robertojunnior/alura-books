@@ -56,7 +56,7 @@ Também aplicamos o uso de "media-queries" para implementação dos layouts de r
 
 Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução HD, adaptei o código também para sua resolução com mais um media-querie screen (min-width: 1366px) com alguns ajustes adicionais, que se adapou perfeitamente ao projeto original.<br>
 
-Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sobre o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
+Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
 
 <br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀
 

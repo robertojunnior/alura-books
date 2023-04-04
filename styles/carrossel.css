@@ -97,7 +97,7 @@
     }
 
     .swiper {
-        width: 50%;
+        width: 70%;
         margin: auto;
     }
 
@@ -107,6 +107,7 @@
     }   
 
     .card {
+        width: 50%;
         margin: 3em auto;
     }
 }
